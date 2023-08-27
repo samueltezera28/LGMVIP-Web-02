@@ -4,7 +4,7 @@ A simple React application that displays user data in a grid of user cards. The 
 
 ![App Screenshot](./Screenshot.png)
 
-demo[LINK](https://spiffy-otter-fba2f9.netlify.app/)
+demo [LINK](https://spiffy-otter-fba2f9.netlify.app/)
 
 ## Features
 
