@@ -2,7 +2,7 @@
 
 A simple React application that displays user data in a grid of user cards. The user data is fetched from the ReqRes.in API when the "Get Users" button is clicked.
 
-![App Screenshot](screenshot.png)
+![App Screenshot](./Screenshot.png)
 
 ## Features
 
